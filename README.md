@@ -4,6 +4,7 @@ A full-stack web application that allows users to create, view, and interact wit
 
 # Link to Project
 Link to Reader: https://cosmic-shortbread-e51ae5.netlify.app
+
 Link to Author: https://amazing-alfajores-f6b45b.netlify.app
 
 # How It’s Made
